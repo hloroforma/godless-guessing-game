@@ -21,7 +21,7 @@ fn main() {
     println!("Guess God's current state!");
     println!("Legend: 0 means dead, 1 means alive.");
 
-    let gods_state = rand::thread_rng().gen_range(1..2);
+    let gods_state = rand::thread_rng().gen_range(0..1);
 
 loop {
     println!("Please input your guess.");
