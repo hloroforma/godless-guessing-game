@@ -2,21 +2,6 @@ use std::io;
 use std::cmp::Ordering;
 use rand::Rng;
 
-/*
-    This is my very first Rust program, which I made
-    by following a tutorial.
-    It's shit. I'm aware.
-    Here's the Cargo.toml (required to use the
-    specific version of rand I used here):
-    [package]
-    name = "godless_guessing_game"
-    version = "0.1.0"
-    edition = "2021"
-
-    [dependencies]
-    rand = "0.8.3"
-*/
-
 fn main() {
     println!("Guess God's current state!");
     println!("Legend: 0 means dead, 1 means alive.");
