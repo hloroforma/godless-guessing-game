@@ -6,7 +6,7 @@ powered by nihilism, inspired by nietsche's _god is dead._
 _**please note**: the godless guessing game is not meant to offend anyone. i'm sorry if it does. this project was born out of boredom and i figured others might enjoy it too._
 
 ## installation
-the godless guessing game needs to be run from the source code. install [rust](https://rust-lang.org/tools/install) before proceeding.
+the godless guessing game needs to be run from the source code without having to actually install it. install [rust](https://rust-lang.org/tools/install) before proceeding.
 
 ```
 git clone https://github.com/hloroforma/godless-guessing-game.git
