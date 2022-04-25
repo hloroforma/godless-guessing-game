@@ -1,7 +1,7 @@
 # godless-guessing-game
 godless guessing game (or ggg/3g) is a little guessing game written in rust.
 
-powered by nihilism, inspired by nietsche's _god is dead._
+powered by nihilism, inspired by nietzsche's _god is dead._
 
 _**please note**: the godless guessing game is not meant to offend anyone. i'm sorry if it does. this project was born out of boredom and i figured others might enjoy it too._
 
